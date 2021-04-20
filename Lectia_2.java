@@ -6,5 +6,6 @@ public class Lectia_2{
 		int sum = a + b;
 		System.out.println("Rezultatul este: " + sum);
 		System.out.println($"Rezultatul este: {sum}");
+		System.out.println("Hello world");
 	}
 }
