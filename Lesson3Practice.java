@@ -1,4 +1,4 @@
-public class Ab{
+public class Lesson3Practice{
 	public static void main(String[] args){
 		int a = 32;
 		int b = 23;
